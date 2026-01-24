@@ -1,4 +1,4 @@
-#Game
+# Game
 
 # Introduction
 
@@ -7,7 +7,7 @@ This project is mainly focused on building a basic Rock Paper Scissors game usin
 The goal is to create a simple interactive game where the user plays against the computer, with real-time results and score updates.
 
 
-#What This Project Demonstrates
+# What This Project Demonstrates
 
 
 By completing this project, I will have practiced and demonstrated:
@@ -28,7 +28,7 @@ By completing this project, I will have practiced and demonstrated:
 
 -Building a foundation for future projects involving more advanced JavaScript and UI features
 
-#Contributing
+# Contributing
 
 Contributions are welcome!
 
